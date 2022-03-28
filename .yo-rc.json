@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.14.0",
+    "libraryName": "conference-complete",
+    "libraryId": "5b5c97ec-b7c2-4be2-8553-4f6c7d5a325c",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "Conference Complete",
+    "solutionShortDescription": "Conference Complete description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "conference-complete-client-side-solution",
+    "id": "5b5c97ec-b7c2-4be2-8553-4f6c7d5a325c",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.14.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "Conference Complete description"
+      },
+      "longDescription": {
+        "default": "Conference Complete description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "conference-complete Feature",
+        "description": "The feature that activates elements of the conference-complete solution.",
+        "id": "02e389d5-940d-4de6-bce0-87d64869deb6",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/conference-complete.sppkg"
+  }
+}
